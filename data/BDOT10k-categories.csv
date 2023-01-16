@@ -1,310 +1,310 @@
-kod0;kategoria;kod1;klasa;kod2;obiekt
-SW;sieć wodna;SWRS;rzeka i strumień;SWRS01;rzeka
-SW;sieć wodna;SWRS;rzeka i strumień;SWRS02;strumień, potok lub struga 
-SW;sieć wodna;SWKN;kanał;SWKN01;kanał 
-SW;sieć wodna;SWRM;rów melioracyjny;SWRM01;rów melioracyjny zbiorczy 
-SW;sieć wodna;SWRM;rów melioracyjny;SWRM02;rów melioracyjny zwykły
-SK;sieć komunikacyjna;SKJZ;jezdnia;SKJZ01;jezdnia autostrady
-SK;sieć komunikacyjna;SKJZ;jezdnia;SKJZ02;jezdnia drogi ekspresowej
-SK;sieć komunikacyjna;SKJZ;jezdnia;SKJZ03;jezdnia drogi głównej ruchu przyśpieszonego
-SK;sieć komunikacyjna;SKJZ;jezdnia;SKJZ04;jezdnia drogi głównej
-SK;sieć komunikacyjna;SKJZ;jezdnia;SKJZ05;jezdnia drogi zbiorczej
-SK;sieć komunikacyjna;SKJZ;jezdnia;SKJZ06;jezdnia drogi lokalnej
-SK;sieć komunikacyjna;SKJZ;jezdnia;SKJZ07;jezdnia drogi dojazdowej
-SK;sieć komunikacyjna;SKJZ;jezdnia;SKJZ08;jezdnia drogi innej
-SK;sieć komunikacyjna;SKDR;droga;SKDR01;autostrada
-SK;sieć komunikacyjna;SKDR;droga;SKDR02;droga ekspresowa
-SK;sieć komunikacyjna;SKDR;droga;SKDR03;droga główna ruchu przyśpieszonego 
-SK;sieć komunikacyjna;SKDR;droga;SKDR04;droga główna
-SK;sieć komunikacyjna;SKDR;droga;SKDR05;droga zbiorcza
-SK;sieć komunikacyjna;SKDR;droga;SKDR06;droga lokalna
-SK;sieć komunikacyjna;SKDR;droga;SKDR07;droga dojazdowa
-SK;sieć komunikacyjna;SKDR;droga;SKDR08;droga inna
-SK;sieć komunikacyjna;SKRW;rondo i węzeł drogowy;SKRW01;rondo
-SK;sieć komunikacyjna;SKRW;rondo i węzeł drogowy;SKRW02;węzeł drogowy
-SK;sieć komunikacyjna;SKRP;ciąg ruchu pieszego i rowerowego;SKRP01;alejka
-SK;sieć komunikacyjna;SKRP;ciąg ruchu pieszego i rowerowego;SKRP02;pasaż
-SK;sieć komunikacyjna;SKRP;ciąg ruchu pieszego i rowerowego;SKRP03;ścieżka
-SK;sieć komunikacyjna;SKTR;tor lub zespół torów;SKTR01;tor kolejowy
-SK;sieć komunikacyjna;SKTR;tor lub zespół torów;SKTR02;tor metra
-SK;sieć komunikacyjna;SKTR;tor lub zespół torów;SKTR03;tor tramwajowy
-SK;sieć komunikacyjna;SKPP;przeprawa;SKPP01;bród
-SK;sieć komunikacyjna;SKPP;przeprawa;SKPP02;przeprawa łodziami
-SK;sieć komunikacyjna;SKPP;przeprawa;SKPP03;przeprawa promowa
-SU;sieć uzbrojenia terenu;SULN;linia napowietrzna;SULN01;linia elektroenergetyczna najwyższego napięcia
-SU;sieć uzbrojenia terenu;SULN;linia napowietrzna;SULN02;linia elektroenergetyczna wysokiego napięcia
-SU;sieć uzbrojenia terenu;SULN;linia napowietrzna;SULN03;linia elektroenergetyczna średniego napięcia
-SU;sieć uzbrojenia terenu;SULN;linia napowietrzna;SULN04;linia elektroenergetyczna niskiego napięcia
-SU;sieć uzbrojenia terenu;SULN;linia napowietrzna;SULN05;linia telekomunikacyjna
-SU;sieć uzbrojenia terenu;SUPR;przewód rurowy;SUPR01;benzynowy
-SU;sieć uzbrojenia terenu;SUPR;przewód rurowy;SUPR02;ciepłowniczy
-SU;sieć uzbrojenia terenu;SUPR;przewód rurowy;SUPR03;gazowy
-SU;sieć uzbrojenia terenu;SUPR;przewód rurowy;SUPR04;kanalizacyjny
-SU;sieć uzbrojenia terenu;SUPR;przewód rurowy;SUPR05;naftowy
-SU;sieć uzbrojenia terenu;SUPR;przewód rurowy;SUPR06;wodociągowy
-PT;pokrycie terenu;PTWP;woda powierzchniowa;PTWP01;woda morska
-PT;pokrycie terenu;PTWP;woda powierzchniowa;PTWP02;woda płynąca
-PT;pokrycie terenu;PTWP;woda powierzchniowa;PTWP03;woda stojąca
-PT;pokrycie terenu;PTZB;zabudowa;PTZB01;zabudowa wielorodzinna
-PT;pokrycie terenu;PTZB;zabudowa;PTZB02;zabudowa jednorodzinna
-PT;pokrycie terenu;PTZB;zabudowa;PTZB03;zabudowa przemysłowo‐składowa
-PT;pokrycie terenu;PTZB;zabudowa;PTZB04;zabudowa handlowo‐usługowa
-PT;pokrycie terenu;PTZB;zabudowa;PTZB05;pozostała zabudowa
-PT;pokrycie terenu;PTLZ;teren leśny i zadrzewiony;PTLZ01;las
-PT;pokrycie terenu;PTLZ;teren leśny i zadrzewiony;PTLZ02;zagajnik
-PT;pokrycie terenu;PTLZ;teren leśny i zadrzewiony;PTLZ03;zadrzewienie
-PT;pokrycie terenu;PTRK;roślinność krzewiasta;PTRK01;kosodrzewina
-PT;pokrycie terenu;PTRK;roślinność krzewiasta;PTRK02;krzewy
-PT;pokrycie terenu;PTUT;uprawa trwała;PTUT01;ogróddziałkowy
-PT;pokrycie terenu;PTUT;uprawa trwała;PTUT02;plantacja
-PT;pokrycie terenu;PTUT;uprawa trwała;PTUT03;sad
-PT;pokrycie terenu;PTUT;uprawa trwała;PTUT04;szkółka leśna
-PT;pokrycie terenu;PTUT;uprawa trwała;PTUT05;szkółka roślinozdobnych
-PT;pokrycie terenu;PTTR;roślinność trawiasta i uprawa rolna;PTTR01;roślinność trawiasta
-PT;pokrycie terenu;PTTR;roślinność trawiasta i uprawa rolna;PTTR02;uprawa na gruntach ornych
-PT;pokrycie terenu;PTKM;teren pod drogami kołowymi, szynowymi i lotniskowymi;PTKM01;teren pod drogą kołową
-PT;pokrycie terenu;PTKM;teren pod drogami kołowymi, szynowymi i lotniskowymi;PTKM02;teren pod torowiskiem
-PT;pokrycie terenu;PTKM;teren pod drogami kołowymi, szynowymi i lotniskowymi;PTKM03;teren pod drogą kołową i torowiskiem
-PT;pokrycie terenu;PTKM;teren pod drogami kołowymi, szynowymi i lotniskowymi;PTKM04;teren pod drogą lotniskową
-PT;pokrycie terenu;PTGN;grunt nieużytkowany;PTGN01;piarg, usypisko lub rumowisko skalne
-PT;pokrycie terenu;PTGN;grunt nieużytkowany;PTGN02;teren kamienisty
-PT;pokrycie terenu;PTGN;grunt nieużytkowany;PTGN03;teren piaszczysty lub żwirowy
-PT;pokrycie terenu;PTGN;grunt nieużytkowany;PTGN04;pozostały grunt nieużytkowany
-PT;pokrycie terenu;PTPL;plac;PTPL01;plac
-PT;pokrycie terenu;PTSO;składowisko odpadów;PTSO01;teren składowania odpadów komunalnych
-PT;pokrycie terenu;PTSO;składowisko odpadów;PTSO02;teren składowania odpadów przemysłowych
-PT;pokrycie terenu;PTWZ;wyrobisko i zwałowisko;PTWZ01;wyrobisko
-PT;pokrycie terenu;PTWZ;wyrobisko i zwałowisko;PTWZ02;zwałowisko
-PT;pokrycie terenu;PTNZ;pozostały teren niezabudowany;PTNZ01;teren pod urządzeniami technicznymi lub budowlami
-PT;pokrycie terenu;PTNZ;pozostały teren niezabudowany;PTNZ02;teren przemysłowo‐składowy
-TC;tereny chronione;TCON;obszar Natura 2000;TCON01;obszar Natura 2000
-TC;tereny chronione;TCPK;park krajobrazowy;TCPK01;park krajobrazowy
-TC;tereny chronione;TCPN;park narodowy;TCPN01;park narodowy
-TC;tereny chronione;TCRZ;rezerwat;TCRZ01;rezerwat
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA01;państwo
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA02;województwo
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA03;powiat
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA04;gmina miejska
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA05;gmina wiejska
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA06;gmina miejsko‐wiejska
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA07;miasto w gminie miejsko‐wiejskiej
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA08;obszar wiejski w gminie miejsko‐wiejskiej
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA09;dzielnica
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA10;delegatura
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS01;miasto
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS02;część miasta
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS03;wieś
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS04;część wsi
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS05;kolonia
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS06;część kolonii
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS07;osada
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS08;część osady
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS09;osiedle
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS10;przysiółek
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS11;leśniczówka
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS12;gajówka
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS13;inny obiekt
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD01;budynki mieszkalne jednorodzinne
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD02;budynki o dwóch mieszkaniach
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD03;budynkio trzech i więcej mieszkaniach
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD04;budynki zbiorowego zamieszkania
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD05;budynki hoteli
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD06;budynki zakwaterowania turystycznego, pozostałe
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD07;budynki biurowe
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD08;budynki handlowo‐usługowe
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD09;budynki łączności, dworców i terminali
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD10;budynki garaży
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD11;budynki przemysłowe
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD12;zbiorniki, silosy i budynki magazynowe
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD13;ogólnodostępne obiekty kulturalne
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD14;budynki muzeów i bibliotek
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD15;budynki szkół i instytucji badawczych
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD16;budynki szpitali i zakładów opieki medycznej
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD17;budynki kulturyfizycznej
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD18;budynki gospodarstwrolnych
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD19;budynki przeznaczone do sprawowania kultu religijnego i czynności religijnych
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD20;obiekty budowlane wpisane do rejestru zabytków i objęte indywidualną ochroną konserwatorską oraz nieruchome, archeologiczne dobra kultury
-BU;budynki, budowle i urządzenia;BUBD;budynek;BUBD21;pozostałe budynkinie mieszkalne, gdzie indziej nie wymienione
-BU;budynki, budowle i urządzenia;BUIN;budowla inżynierska;BUIN01;estakada
-BU;budynki, budowle i urządzenia;BUIN;budowla inżynierska;BUIN02;kładka dla pieszych
-BU;budynki, budowle i urządzenia;BUIN;budowla inżynierska;BUIN03;most
-BU;budynki, budowle i urządzenia;BUIN;budowla inżynierska;BUIN04;przejście podziemne dla pieszych
-BU;budynki, budowle i urządzenia;BUIN;budowla inżynierska;BUIN05;przepust
-BU;budynki, budowle i urządzenia;BUIN;budowla inżynierska;BUIN06;tunel
-BU;budynki, budowle i urządzenia;BUIN;budowla inżynierska;BUIN07;wiadukt
-BU;budynki, budowle i urządzenia;BUHD;budowla hydrotechniczna;BUHD01;jaz ruchomy lub zastawka piętrząca
-BU;budynki, budowle i urządzenia;BUHD;budowla hydrotechniczna;BUHD02;jaz stały
-BU;budynki, budowle i urządzenia;BUHD;budowla hydrotechniczna;BUHD03;śluza
-BU;budynki, budowle i urządzenia;BUHD;budowla hydrotechniczna;BUHD04;zapora
-BU;budynki, budowle i urządzenia;BUSP;budowla sportowa;BUSP01;basen odkryty
-BU;budynki, budowle i urządzenia;BUSP;budowla sportowa;BUSP02;basen z czaszą foliową
-BU;budynki, budowle i urządzenia;BUSP;budowla sportowa;BUSP03;bieżnia
-BU;budynki, budowle i urządzenia;BUSP;budowla sportowa;BUSP04;kort tenisowy
-BU;budynki, budowle i urządzenia;BUSP;budowla sportowa;BUSP05;kort tenisowy z czaszą foliową
-BU;budynki, budowle i urządzenia;BUSP;budowla sportowa;BUSP06;plac gier i zabaw
-BU;budynki, budowle i urządzenia;BUSP;budowla sportowa;BUSP07;plac sportowy
-BU;budynki, budowle i urządzenia;BUSP;budowla sportowa;BUSP08;skocznia narciarska
-BU;budynki, budowle i urządzenia;BUSP;budowla sportowa;BUSP09;stadion
-BU;budynki, budowle i urządzenia;BUSP;budowla sportowa;BUSP10;sztuczny stok
-BU;budynki, budowle i urządzenia;BUSP;budowla sportowa;BUSP11;tor samochodowy
-BU;budynki, budowle i urządzenia;BUSP;budowla sportowa;BUSP12;tor saneczkowy
-BU;budynki, budowle i urządzenia;BUSP;budowla sportowa;BUSP13;tor żużlowy
-BU;budynki, budowle i urządzenia;BUWT;wysoka budowla techniczna;BUWT01;chłodnia kominowa
-BU;budynki, budowle i urządzenia;BUWT;wysoka budowla techniczna;BUWT02;komin przemysłowy
-BU;budynki, budowle i urządzenia;BUWT;wysoka budowla techniczna;BUWT03;maszt oświetleniowy
-BU;budynki, budowle i urządzenia;BUWT;wysoka budowla techniczna;BUWT04;maszt telekomunikacyjny
-BU;budynki, budowle i urządzenia;BUWT;wysoka budowla techniczna;BUWT05;turbina wiatrowa
-BU;budynki, budowle i urządzenia;BUWT;wysoka budowla techniczna;BUWT06;słup energetyczny
-BU;budynki, budowle i urządzenia;BUWT;wysoka budowla techniczna;BUWT07;podpora kolei linowej
-BU;budynki, budowle i urządzenia;BUWT;wysoka budowla techniczna;BUWT08;wieża ciśnień
-BU;budynki, budowle i urządzenia;BUWT;wysoka budowla techniczna;BUWT09;wieża przeciwpożarowa
-BU;budynki, budowle i urządzenia;BUWT;wysoka budowla techniczna;BUWT10;wieża szybu kopalnianego
-BU;budynki, budowle i urządzenia;BUWT;wysoka budowla techniczna;BUWT11;wieża telekomunikacyjna
-BU;budynki, budowle i urządzenia;BUWT;wysoka budowla techniczna;BUWT12;wieża widokowa
-BU;budynki, budowle i urządzenia;BUZT;zbiornik techniczny;BUZT01;osadnik
-BU;budynki, budowle i urządzenia;BUZT;zbiornik techniczny;BUZT02;zbiornik na ciecz
-BU;budynki, budowle i urządzenia;BUZT;zbiornik techniczny;BUZT03;zbiornik na materiały pędne lub gaz
-BU;budynki, budowle i urządzenia;BUZT;zbiornik techniczny;BUZT04;zbiornik na materiały sypkie
-BU;budynki, budowle i urządzenia;BUUO;umocnienie drogowe, kolejowe i wodne;BUUO01;falochron
-BU;budynki, budowle i urządzenia;BUUO;umocnienie drogowe, kolejowe i wodne;BUUO02;ostroga
-BU;budynki, budowle i urządzenia;BUUO;umocnienie drogowe, kolejowe i wodne;BUUO03;ściana oporowa
-BU;budynki, budowle i urządzenia;BUUO;umocnienie drogowe, kolejowe i wodne;BUUO04;umocnienie brzegu
-BU;budynki, budowle i urządzenia;BUZM;budowla ziemna;BUZM01;fosa sucha lub wykop
-BU;budynki, budowle i urządzenia;BUZM;budowla ziemna;BUZM02;nasyp
-BU;budynki, budowle i urządzenia;BUZM;budowla ziemna;BUZM03;wał przeciwpowodziowy lub grobla
-BU;budynki, budowle i urządzenia;BUTR;urządzenie transportowe;BUTR01;kolej linowa
-BU;budynki, budowle i urządzenia;BUTR;urządzenie transportowe;BUTR02;obrotnica kolejowa
-BU;budynki, budowle i urządzenia;BUTR;urządzenie transportowe;BUTR03;suwnica
-BU;budynki, budowle i urządzenia;BUTR;urządzenie transportowe;BUTR04;taśmociąg
-BU;budynki, budowle i urządzenia;BUTR;urządzenie transportowe;BUTR05;wyciąg narciarski
-BU;budynki, budowle i urządzenia;BUIT;inne urządzenie techniczne;BUIT01;szyb naftowy lub gazowy
-BU;budynki, budowle i urządzenia;BUIT;inne urządzenie techniczne;BUIT02;ujęcie wody
-BU;budynki, budowle i urządzenia;BUIT;inne urządzenie techniczne;BUIT03;transformator
-BU;budynki, budowle i urządzenia;BUIT;inne urządzenie techniczne;BUIT04;zespół transformatorów
-BU;budynki, budowle i urządzenia;BUIT;inne urządzenie techniczne;BUIT05;zespół dystrybutorów paliwa
-BU;budynki, budowle i urządzenia;BUIT;inne urządzenie techniczne;BUIT06;zespół urządzeń stacji meteorologicznej
-BU;budynki, budowle i urządzenia;BUIT;inne urządzenie techniczne;BUIT07;zespół urządzeń terminalu ropy naftowej lub materiałów ropopochodnych
-BU;budynki, budowle i urządzenia;BUCM;budowla cmentarna;BUCM01;zespół nagrobków cmentarnych
-BU;budynki, budowle i urządzenia;BUIB;inna budowla;BUIB01;estrada
-BU;budynki, budowle i urządzenia;BUIB;inna budowla;BUIB02;ogrodzenie trwałe
-BU;budynki, budowle i urządzenia;BUIB;inna budowla;BUIB03;peron kolejowy
-BU;budynki, budowle i urządzenia;BUIB;inna budowla;BUIB04;platforma widokowa
-BU;budynki, budowle i urządzenia;BUIB;inna budowla;BUIB05;rampa
-BU;budynki, budowle i urządzenia;BUIB;inna budowla;BUIB06;trybuna
-KU;kompleksy użytkowania terenu;KUMN;kompleks mieszkaniowy;KUMN01;osiedle mieszkaniowe
-KU;kompleksy użytkowania terenu;KUMN;kompleks mieszkaniowy;KUMN02;posesja
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG01;elektrociepłownia
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG02;elektrownia
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG03;gazownia
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG04;gospodarstwo hodowlane
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG05;huta
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG06;kopalnia
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG07;oczyszczalnia ścieków
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG08;podstacja elektroenergetyczna
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG09;przepompownia
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG10;rafineria
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG11;składowisko odpadów
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG12;teren ujęcia wody
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG13;zakład metalurgiczny
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG14;zakład produkcyjny, usługowy lub remontowy
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG15;zakład utylizacji
-KU;kompleksy użytkowania terenu;KUPG;kompleks przemysłowo-gospodarczy;KUPG16;zakład wodociągowy
-KU;kompleksy użytkowania terenu;KUHU;kompleks handlowo-usługowy;KUHU01;centrum handlowo‐usługowe
-KU;kompleksy użytkowania terenu;KUHU;kompleks handlowo-usługowy;KUHU02;targowisko lub bazar
-KU;kompleksy użytkowania terenu;KUKO;kompleks komunikacyjny;KUKO01;dworzec autobusowy
-KU;kompleksy użytkowania terenu;KUKO;kompleks komunikacyjny;KUKO02;lotnisko lub lądowisko
-KU;kompleksy użytkowania terenu;KUKO;kompleks komunikacyjny;KUKO03;miejsce obsługi podróżnych
-KU;kompleksy użytkowania terenu;KUKO;kompleks komunikacyjny;KUKO04;parking
-KU;kompleksy użytkowania terenu;KUKO;kompleks komunikacyjny;KUKO05;port wodny lub przystań
-KU;kompleksy użytkowania terenu;KUKO;kompleks komunikacyjny;KUKO06;stacja kolejowa
-KU;kompleksy użytkowania terenu;KUKO;kompleks komunikacyjny;KUKO07;stacja metra
-KU;kompleksy użytkowania terenu;KUKO;kompleks komunikacyjny;KUKO08;stacja paliw
-KU;kompleksy użytkowania terenu;KUKO;kompleks komunikacyjny;KUKO09;teren kolejowy
-KU;kompleksy użytkowania terenu;KUKO;kompleks komunikacyjny;KUKO10;zajezdnia lub baza transportowa
-KU;kompleksy użytkowania terenu;KUSK;kompleks sportowy i rekreacyjny;KUSK01;ogród botaniczny
-KU;kompleksy użytkowania terenu;KUSK;kompleks sportowy i rekreacyjny;KUSK02;ogród zoologiczny
-KU;kompleksy użytkowania terenu;KUSK;kompleks sportowy i rekreacyjny;KUSK03;ośrodek sportowo‐rekreacyjny
-KU;kompleksy użytkowania terenu;KUSK;kompleks sportowy i rekreacyjny;KUSK04;park
-KU;kompleksy użytkowania terenu;KUSK;kompleks sportowy i rekreacyjny;KUSK05;zespół domów letniskowych
-KU;kompleksy użytkowania terenu;KUHO;kompleks usług hotelarskich;KUHO01;hotel lub motel
-KU;kompleksy użytkowania terenu;KUHO;kompleks usług hotelarskich;KUHO02;kemping
-KU;kompleksy użytkowania terenu;KUHO;kompleks usług hotelarskich;KUHO03;ośrodek wypoczynkowy
-KU;kompleksy użytkowania terenu;KUHO;kompleks usług hotelarskich;KUHO04;schronisko turystyczne
-KU;kompleksy użytkowania terenu;KUOS;kompleks oświatowy;KUOS01;ośrodek naukowo‐badawczy
-KU;kompleksy użytkowania terenu;KUOS;kompleks oświatowy;KUOS02;przedszkole lub żłobek
-KU;kompleksy użytkowania terenu;KUOS;kompleks oświatowy;KUOS03;szkoła lub zespół szkół
-KU;kompleksy użytkowania terenu;KUOS;kompleks oświatowy;KUOS04;szkoła wyższa
-KU;kompleksy użytkowania terenu;KUOZ;kompleks ochrony zdrowia i opieki społecznej;KUOZ01;zakład opieki socjalnej lub dom dziecka
-KU;kompleksy użytkowania terenu;KUOZ;kompleks ochrony zdrowia i opieki społecznej;KUOZ02;zespół szpitalny lub sanatoryjny
-KU;kompleksy użytkowania terenu;KUZA;kompleks zabytkowo-historyczny;KUZA01;miejsce pamięci narodowej
-KU;kompleksy użytkowania terenu;KUZA;kompleks zabytkowo-historyczny;KUZA02;skansen
-KU;kompleksy użytkowania terenu;KUZA;kompleks zabytkowo-historyczny;KUZA03;twierdza lub forteca
-KU;kompleksy użytkowania terenu;KUZA;kompleks zabytkowo-historyczny;KUZA04;zespół muzealny
-KU;kompleksy użytkowania terenu;KUZA;kompleks zabytkowo-historyczny;KUZA05;zespół pałacowy
-KU;kompleksy użytkowania terenu;KUZA;kompleks zabytkowo-historyczny;KUZA06;zespół zamkowy
-KU;kompleksy użytkowania terenu;KUSC;kompleks sakralny i cmentarz;KUSC01;cmentarz
-KU;kompleksy użytkowania terenu;KUSC;kompleks sakralny i cmentarz;KUSC02;zespół sakralny lub klasztorny
-KU;kompleksy użytkowania terenu;KUIK;inny kompleks użytkowania terenu;KUIK01;poligon wojskowy
-KU;kompleksy użytkowania terenu;KUIK;inny kompleks użytkowania terenu;KUIK02;zakład specjalny
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA01;państwo
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA02;województwo
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA03;powiat
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA04;gmina miejska
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA05;gmina wiejska
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA06;gmina miejsko‐wiejska
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA07;miasto w gminie miejsko‐wiejskiej
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA08;obszar wiejski w gminie miejsko‐wiejskiej
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA09;dzielnica
-AD;jednostki podziału terytorialnego;ADJA;jednostka podziału administracyjnego;ADJA10;delegatura
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS01;miasto
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS02;część miasta
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS03;wieś
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS04;część wsi
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS05;kolonia
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS06;część kolonii
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS07;osada
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS08;część osady
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS09;osiedle
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS10;przysiółek
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS11;leśniczówka
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS12;gajówka
-AD;jednostki podziału terytorialnego;ADMS;miejscowość;ADMS13;inny obiekt
-OI;obiekty inne;OIPR;obiekt przyrodniczy;OIPR01;drzewo lub grupa drzew
-OI;obiekty inne;OIPR;obiekt przyrodniczy;OIPR02;głaz narzutowy lub grupa głazów
-OI;obiekty inne;OIPR;obiekt przyrodniczy;OIPR03;kępa krzewów
-OI;obiekty inne;OIPR;obiekt przyrodniczy;OIPR04;kępa kosodrzewiny
-OI;obiekty inne;OIPR;obiekt przyrodniczy;OIPR05;linia oddziałowa
-OI;obiekty inne;OIPR;obiekt przyrodniczy;OIPR06;mały las
-OI;obiekty inne;OIPR;obiekt przyrodniczy;OIPR07;odosobniona skała
-OI;obiekty inne;OIPR;obiekt przyrodniczy;OIPR08;pas krzewów lub żywopłot
-OI;obiekty inne;OIPR;obiekt przyrodniczy;OIPR09;próg skalny
-OI;obiekty inne;OIPR;obiekt przyrodniczy;OIPR10;rząd drzew
-OI;obiekty inne;OIPR;obiekt przyrodniczy;OIPR11;wejście do jaskini
-OI;obiekty inne;OIPR;obiekt przyrodniczy;OIPR12;wodospad
-OI;obiekty inne;OIPR;obiekt przyrodniczy;OIPR13;źródło
-OI;obiekty inne;OIKM;obiekt związany z komunikają;OIKM01;ekran akustyczny
-OI;obiekty inne;OIKM;obiekt związany z komunikają;OIKM02;pas startowy
-OI;obiekty inne;OIKM;obiekt związany z komunikają;OIKM03;przejście graniczne
-OI;obiekty inne;OIKM;obiekt związany z komunikają;OIKM04;przystanek autobusowy lub tramwajowy
-OI;obiekty inne;OIKM;obiekt związany z komunikają;OIKM05;przystanek kolejowy
-OI;obiekty inne;OIKM;obiekt związany z komunikają;OIKM06;schody
-OI;obiekty inne;OIKM;obiekt związany z komunikają;OIKM07;sygnalizator świetlny
-OI;obiekty inne;OIKM;obiekt związany z komunikają;OIKM08;wejście do stacji metra
-OI;obiekty inne;OIKM;obiekt związany z komunikają;OIKM09;miejsce poboru opłat
-OI;obiekty inne;OIOR;obiekty o znaczeniu orientacyjnym w terenie;OIOR01;bunkier lub schron
-OI;obiekty inne;OIOR;obiekty o znaczeniu orientacyjnym w terenie;OIOR02;figura, kapliczka lub krzyż przydrożny
-OI;obiekty inne;OIOR;obiekty o znaczeniu orientacyjnym w terenie;OIOR03;fontanna
-OI;obiekty inne;OIOR;obiekty o znaczeniu orientacyjnym w terenie;OIOR04;mur historyczny
-OI;obiekty inne;OIOR;obiekty o znaczeniu orientacyjnym w terenie;OIOR05;odosobniona mogiła
-OI;obiekty inne;OIOR;obiekty o znaczeniu orientacyjnym w terenie;OIOR06;pomnik
-OI;obiekty inne;OIOR;obiekty o znaczeniu orientacyjnym w terenie;OIOR07;pomost lub molo
-OI;obiekty inne;OIOR;obiekty o znaczeniu orientacyjnym w terenie;OIOR08;ruina zabytkowa
-OI;obiekty inne;OIOR;obiekty o znaczeniu orientacyjnym w terenie;OIOR09;studnia głębinowa
-OI;obiekty inne;OIOR;obiekty o znaczeniu orientacyjnym w terenie;OIOR10;szklarnia (niebędąca budynkiem)
-OI;obiekty inne;OIOR;obiekty o znaczeniu orientacyjnym w terenie;OIOR11;wiata lub altana
-OI;obiekty inne;OIOR;obiekty o znaczeniu orientacyjnym w terenie;OIOR12;wiatrak (niebędący budynkiem)
-OI;obiekty inne;OIOR;obiekty o znaczeniu orientacyjnym w terenie;OIOR13;wieża obserwacyjna
-OI;obiekty inne;OIOR;obiekty o znaczeniu orientacyjnym w terenie;OIOR14;wodowskaz
-OI;obiekty inne;OIMK;mokradło;OIMK01;bagno
-OI;obiekty inne;OIMK;mokradło;OIMK02;teren podmokły
-OI;obiekty inne;OISZ;szuwary;OISZ01;szuwary
+kod0,kategoria,kod1,klasa,kod2,obiekt
+SW,sieć wodna,SWRS,rzeka i strumień,SWRS01,rzeka
+SW,sieć wodna,SWRS,rzeka i strumień,SWRS02,strumień; potok lub struga 
+SW,sieć wodna,SWKN,kanał,SWKN01,kanał 
+SW,sieć wodna,SWRM,rów melioracyjny,SWRM01,rów melioracyjny zbiorczy 
+SW,sieć wodna,SWRM,rów melioracyjny,SWRM02,rów melioracyjny zwykły
+SK,sieć komunikacyjna,SKJZ,jezdnia,SKJZ01,jezdnia autostrady
+SK,sieć komunikacyjna,SKJZ,jezdnia,SKJZ02,jezdnia drogi ekspresowej
+SK,sieć komunikacyjna,SKJZ,jezdnia,SKJZ03,jezdnia drogi głównej ruchu przyśpieszonego
+SK,sieć komunikacyjna,SKJZ,jezdnia,SKJZ04,jezdnia drogi głównej
+SK,sieć komunikacyjna,SKJZ,jezdnia,SKJZ05,jezdnia drogi zbiorczej
+SK,sieć komunikacyjna,SKJZ,jezdnia,SKJZ06,jezdnia drogi lokalnej
+SK,sieć komunikacyjna,SKJZ,jezdnia,SKJZ07,jezdnia drogi dojazdowej
+SK,sieć komunikacyjna,SKJZ,jezdnia,SKJZ08,jezdnia drogi innej
+SK,sieć komunikacyjna,SKDR,droga,SKDR01,autostrada
+SK,sieć komunikacyjna,SKDR,droga,SKDR02,droga ekspresowa
+SK,sieć komunikacyjna,SKDR,droga,SKDR03,droga główna ruchu przyśpieszonego 
+SK,sieć komunikacyjna,SKDR,droga,SKDR04,droga główna
+SK,sieć komunikacyjna,SKDR,droga,SKDR05,droga zbiorcza
+SK,sieć komunikacyjna,SKDR,droga,SKDR06,droga lokalna
+SK,sieć komunikacyjna,SKDR,droga,SKDR07,droga dojazdowa
+SK,sieć komunikacyjna,SKDR,droga,SKDR08,droga inna
+SK,sieć komunikacyjna,SKRW,rondo i węzeł drogowy,SKRW01,rondo
+SK,sieć komunikacyjna,SKRW,rondo i węzeł drogowy,SKRW02,węzeł drogowy
+SK,sieć komunikacyjna,SKRP,ciąg ruchu pieszego i rowerowego,SKRP01,alejka
+SK,sieć komunikacyjna,SKRP,ciąg ruchu pieszego i rowerowego,SKRP02,pasaż
+SK,sieć komunikacyjna,SKRP,ciąg ruchu pieszego i rowerowego,SKRP03,ścieżka
+SK,sieć komunikacyjna,SKTR,tor lub zespół torów,SKTR01,tor kolejowy
+SK,sieć komunikacyjna,SKTR,tor lub zespół torów,SKTR02,tor metra
+SK,sieć komunikacyjna,SKTR,tor lub zespół torów,SKTR03,tor tramwajowy
+SK,sieć komunikacyjna,SKPP,przeprawa,SKPP01,bród
+SK,sieć komunikacyjna,SKPP,przeprawa,SKPP02,przeprawa łodziami
+SK,sieć komunikacyjna,SKPP,przeprawa,SKPP03,przeprawa promowa
+SU,sieć uzbrojenia terenu,SULN,linia napowietrzna,SULN01,linia elektroenergetyczna najwyższego napięcia
+SU,sieć uzbrojenia terenu,SULN,linia napowietrzna,SULN02,linia elektroenergetyczna wysokiego napięcia
+SU,sieć uzbrojenia terenu,SULN,linia napowietrzna,SULN03,linia elektroenergetyczna średniego napięcia
+SU,sieć uzbrojenia terenu,SULN,linia napowietrzna,SULN04,linia elektroenergetyczna niskiego napięcia
+SU,sieć uzbrojenia terenu,SULN,linia napowietrzna,SULN05,linia telekomunikacyjna
+SU,sieć uzbrojenia terenu,SUPR,przewód rurowy,SUPR01,benzynowy
+SU,sieć uzbrojenia terenu,SUPR,przewód rurowy,SUPR02,ciepłowniczy
+SU,sieć uzbrojenia terenu,SUPR,przewód rurowy,SUPR03,gazowy
+SU,sieć uzbrojenia terenu,SUPR,przewód rurowy,SUPR04,kanalizacyjny
+SU,sieć uzbrojenia terenu,SUPR,przewód rurowy,SUPR05,naftowy
+SU,sieć uzbrojenia terenu,SUPR,przewód rurowy,SUPR06,wodociągowy
+PT,pokrycie terenu,PTWP,woda powierzchniowa,PTWP01,woda morska
+PT,pokrycie terenu,PTWP,woda powierzchniowa,PTWP02,woda płynąca
+PT,pokrycie terenu,PTWP,woda powierzchniowa,PTWP03,woda stojąca
+PT,pokrycie terenu,PTZB,zabudowa,PTZB01,zabudowa wielorodzinna
+PT,pokrycie terenu,PTZB,zabudowa,PTZB02,zabudowa jednorodzinna
+PT,pokrycie terenu,PTZB,zabudowa,PTZB03,zabudowa przemysłowo‐składowa
+PT,pokrycie terenu,PTZB,zabudowa,PTZB04,zabudowa handlowo‐usługowa
+PT,pokrycie terenu,PTZB,zabudowa,PTZB05,pozostała zabudowa
+PT,pokrycie terenu,PTLZ,teren leśny i zadrzewiony,PTLZ01,las
+PT,pokrycie terenu,PTLZ,teren leśny i zadrzewiony,PTLZ02,zagajnik
+PT,pokrycie terenu,PTLZ,teren leśny i zadrzewiony,PTLZ03,zadrzewienie
+PT,pokrycie terenu,PTRK,roślinność krzewiasta,PTRK01,kosodrzewina
+PT,pokrycie terenu,PTRK,roślinność krzewiasta,PTRK02,krzewy
+PT,pokrycie terenu,PTUT,uprawa trwała,PTUT01,ogróddziałkowy
+PT,pokrycie terenu,PTUT,uprawa trwała,PTUT02,plantacja
+PT,pokrycie terenu,PTUT,uprawa trwała,PTUT03,sad
+PT,pokrycie terenu,PTUT,uprawa trwała,PTUT04,szkółka leśna
+PT,pokrycie terenu,PTUT,uprawa trwała,PTUT05,szkółka roślinozdobnych
+PT,pokrycie terenu,PTTR,roślinność trawiasta i uprawa rolna,PTTR01,roślinność trawiasta
+PT,pokrycie terenu,PTTR,roślinność trawiasta i uprawa rolna,PTTR02,uprawa na gruntach ornych
+PT,pokrycie terenu,PTKM,teren pod drogami kołowymi; szynowymi i lotniskowymi,PTKM01,teren pod drogą kołową
+PT,pokrycie terenu,PTKM,teren pod drogami kołowymi; szynowymi i lotniskowymi,PTKM02,teren pod torowiskiem
+PT,pokrycie terenu,PTKM,teren pod drogami kołowymi; szynowymi i lotniskowymi,PTKM03,teren pod drogą kołową i torowiskiem
+PT,pokrycie terenu,PTKM,teren pod drogami kołowymi; szynowymi i lotniskowymi,PTKM04,teren pod drogą lotniskową
+PT,pokrycie terenu,PTGN,grunt nieużytkowany,PTGN01,piarg; usypisko lub rumowisko skalne
+PT,pokrycie terenu,PTGN,grunt nieużytkowany,PTGN02,teren kamienisty
+PT,pokrycie terenu,PTGN,grunt nieużytkowany,PTGN03,teren piaszczysty lub żwirowy
+PT,pokrycie terenu,PTGN,grunt nieużytkowany,PTGN04,pozostały grunt nieużytkowany
+PT,pokrycie terenu,PTPL,plac,PTPL01,plac
+PT,pokrycie terenu,PTSO,składowisko odpadów,PTSO01,teren składowania odpadów komunalnych
+PT,pokrycie terenu,PTSO,składowisko odpadów,PTSO02,teren składowania odpadów przemysłowych
+PT,pokrycie terenu,PTWZ,wyrobisko i zwałowisko,PTWZ01,wyrobisko
+PT,pokrycie terenu,PTWZ,wyrobisko i zwałowisko,PTWZ02,zwałowisko
+PT,pokrycie terenu,PTNZ,pozostały teren niezabudowany,PTNZ01,teren pod urządzeniami technicznymi lub budowlami
+PT,pokrycie terenu,PTNZ,pozostały teren niezabudowany,PTNZ02,teren przemysłowo‐składowy
+TC,tereny chronione,TCON,obszar Natura 2000,TCON01,obszar Natura 2000
+TC,tereny chronione,TCPK,park krajobrazowy,TCPK01,park krajobrazowy
+TC,tereny chronione,TCPN,park narodowy,TCPN01,park narodowy
+TC,tereny chronione,TCRZ,rezerwat,TCRZ01,rezerwat
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA01,państwo
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA02,województwo
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA03,powiat
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA04,gmina miejska
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA05,gmina wiejska
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA06,gmina miejsko‐wiejska
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA07,miasto w gminie miejsko‐wiejskiej
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA08,obszar wiejski w gminie miejsko‐wiejskiej
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA09,dzielnica
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA10,delegatura
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS01,miasto
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS02,część miasta
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS03,wieś
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS04,część wsi
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS05,kolonia
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS06,część kolonii
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS07,osada
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS08,część osady
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS09,osiedle
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS10,przysiółek
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS11,leśniczówka
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS12,gajówka
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS13,inny obiekt
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD01,budynki mieszkalne jednorodzinne
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD02,budynki o dwóch mieszkaniach
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD03,budynkio trzech i więcej mieszkaniach
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD04,budynki zbiorowego zamieszkania
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD05,budynki hoteli
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD06,budynki zakwaterowania turystycznego; pozostałe
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD07,budynki biurowe
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD08,budynki handlowo‐usługowe
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD09,budynki łączności; dworców i terminali
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD10,budynki garaży
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD11,budynki przemysłowe
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD12,zbiorniki; silosy i budynki magazynowe
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD13,ogólnodostępne obiekty kulturalne
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD14,budynki muzeów i bibliotek
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD15,budynki szkół i instytucji badawczych
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD16,budynki szpitali i zakładów opieki medycznej
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD17,budynki kulturyfizycznej
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD18,budynki gospodarstwrolnych
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD19,budynki przeznaczone do sprawowania kultu religijnego i czynności religijnych
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD20,obiekty budowlane wpisane do rejestru zabytków i objęte indywidualną ochroną konserwatorską oraz nieruchome; archeologiczne dobra kultury
+BU,budynki; budowle i urządzenia,BUBD,budynek,BUBD21,pozostałe budynkinie mieszkalne; gdzie indziej nie wymienione
+BU,budynki; budowle i urządzenia,BUIN,budowla inżynierska,BUIN01,estakada
+BU,budynki; budowle i urządzenia,BUIN,budowla inżynierska,BUIN02,kładka dla pieszych
+BU,budynki; budowle i urządzenia,BUIN,budowla inżynierska,BUIN03,most
+BU,budynki; budowle i urządzenia,BUIN,budowla inżynierska,BUIN04,przejście podziemne dla pieszych
+BU,budynki; budowle i urządzenia,BUIN,budowla inżynierska,BUIN05,przepust
+BU,budynki; budowle i urządzenia,BUIN,budowla inżynierska,BUIN06,tunel
+BU,budynki; budowle i urządzenia,BUIN,budowla inżynierska,BUIN07,wiadukt
+BU,budynki; budowle i urządzenia,BUHD,budowla hydrotechniczna,BUHD01,jaz ruchomy lub zastawka piętrząca
+BU,budynki; budowle i urządzenia,BUHD,budowla hydrotechniczna,BUHD02,jaz stały
+BU,budynki; budowle i urządzenia,BUHD,budowla hydrotechniczna,BUHD03,śluza
+BU,budynki; budowle i urządzenia,BUHD,budowla hydrotechniczna,BUHD04,zapora
+BU,budynki; budowle i urządzenia,BUSP,budowla sportowa,BUSP01,basen odkryty
+BU,budynki; budowle i urządzenia,BUSP,budowla sportowa,BUSP02,basen z czaszą foliową
+BU,budynki; budowle i urządzenia,BUSP,budowla sportowa,BUSP03,bieżnia
+BU,budynki; budowle i urządzenia,BUSP,budowla sportowa,BUSP04,kort tenisowy
+BU,budynki; budowle i urządzenia,BUSP,budowla sportowa,BUSP05,kort tenisowy z czaszą foliową
+BU,budynki; budowle i urządzenia,BUSP,budowla sportowa,BUSP06,plac gier i zabaw
+BU,budynki; budowle i urządzenia,BUSP,budowla sportowa,BUSP07,plac sportowy
+BU,budynki; budowle i urządzenia,BUSP,budowla sportowa,BUSP08,skocznia narciarska
+BU,budynki; budowle i urządzenia,BUSP,budowla sportowa,BUSP09,stadion
+BU,budynki; budowle i urządzenia,BUSP,budowla sportowa,BUSP10,sztuczny stok
+BU,budynki; budowle i urządzenia,BUSP,budowla sportowa,BUSP11,tor samochodowy
+BU,budynki; budowle i urządzenia,BUSP,budowla sportowa,BUSP12,tor saneczkowy
+BU,budynki; budowle i urządzenia,BUSP,budowla sportowa,BUSP13,tor żużlowy
+BU,budynki; budowle i urządzenia,BUWT,wysoka budowla techniczna,BUWT01,chłodnia kominowa
+BU,budynki; budowle i urządzenia,BUWT,wysoka budowla techniczna,BUWT02,komin przemysłowy
+BU,budynki; budowle i urządzenia,BUWT,wysoka budowla techniczna,BUWT03,maszt oświetleniowy
+BU,budynki; budowle i urządzenia,BUWT,wysoka budowla techniczna,BUWT04,maszt telekomunikacyjny
+BU,budynki; budowle i urządzenia,BUWT,wysoka budowla techniczna,BUWT05,turbina wiatrowa
+BU,budynki; budowle i urządzenia,BUWT,wysoka budowla techniczna,BUWT06,słup energetyczny
+BU,budynki; budowle i urządzenia,BUWT,wysoka budowla techniczna,BUWT07,podpora kolei linowej
+BU,budynki; budowle i urządzenia,BUWT,wysoka budowla techniczna,BUWT08,wieża ciśnień
+BU,budynki; budowle i urządzenia,BUWT,wysoka budowla techniczna,BUWT09,wieża przeciwpożarowa
+BU,budynki; budowle i urządzenia,BUWT,wysoka budowla techniczna,BUWT10,wieża szybu kopalnianego
+BU,budynki; budowle i urządzenia,BUWT,wysoka budowla techniczna,BUWT11,wieża telekomunikacyjna
+BU,budynki; budowle i urządzenia,BUWT,wysoka budowla techniczna,BUWT12,wieża widokowa
+BU,budynki; budowle i urządzenia,BUZT,zbiornik techniczny,BUZT01,osadnik
+BU,budynki; budowle i urządzenia,BUZT,zbiornik techniczny,BUZT02,zbiornik na ciecz
+BU,budynki; budowle i urządzenia,BUZT,zbiornik techniczny,BUZT03,zbiornik na materiały pędne lub gaz
+BU,budynki; budowle i urządzenia,BUZT,zbiornik techniczny,BUZT04,zbiornik na materiały sypkie
+BU,budynki; budowle i urządzenia,BUUO,umocnienie drogowe; kolejowe i wodne,BUUO01,falochron
+BU,budynki; budowle i urządzenia,BUUO,umocnienie drogowe; kolejowe i wodne,BUUO02,ostroga
+BU,budynki; budowle i urządzenia,BUUO,umocnienie drogowe; kolejowe i wodne,BUUO03,ściana oporowa
+BU,budynki; budowle i urządzenia,BUUO,umocnienie drogowe; kolejowe i wodne,BUUO04,umocnienie brzegu
+BU,budynki; budowle i urządzenia,BUZM,budowla ziemna,BUZM01,fosa sucha lub wykop
+BU,budynki; budowle i urządzenia,BUZM,budowla ziemna,BUZM02,nasyp
+BU,budynki; budowle i urządzenia,BUZM,budowla ziemna,BUZM03,wał przeciwpowodziowy lub grobla
+BU,budynki; budowle i urządzenia,BUTR,urządzenie transportowe,BUTR01,kolej linowa
+BU,budynki; budowle i urządzenia,BUTR,urządzenie transportowe,BUTR02,obrotnica kolejowa
+BU,budynki; budowle i urządzenia,BUTR,urządzenie transportowe,BUTR03,suwnica
+BU,budynki; budowle i urządzenia,BUTR,urządzenie transportowe,BUTR04,taśmociąg
+BU,budynki; budowle i urządzenia,BUTR,urządzenie transportowe,BUTR05,wyciąg narciarski
+BU,budynki; budowle i urządzenia,BUIT,inne urządzenie techniczne,BUIT01,szyb naftowy lub gazowy
+BU,budynki; budowle i urządzenia,BUIT,inne urządzenie techniczne,BUIT02,ujęcie wody
+BU,budynki; budowle i urządzenia,BUIT,inne urządzenie techniczne,BUIT03,transformator
+BU,budynki; budowle i urządzenia,BUIT,inne urządzenie techniczne,BUIT04,zespół transformatorów
+BU,budynki; budowle i urządzenia,BUIT,inne urządzenie techniczne,BUIT05,zespół dystrybutorów paliwa
+BU,budynki; budowle i urządzenia,BUIT,inne urządzenie techniczne,BUIT06,zespół urządzeń stacji meteorologicznej
+BU,budynki; budowle i urządzenia,BUIT,inne urządzenie techniczne,BUIT07,zespół urządzeń terminalu ropy naftowej lub materiałów ropopochodnych
+BU,budynki; budowle i urządzenia,BUCM,budowla cmentarna,BUCM01,zespół nagrobków cmentarnych
+BU,budynki; budowle i urządzenia,BUIB,inna budowla,BUIB01,estrada
+BU,budynki; budowle i urządzenia,BUIB,inna budowla,BUIB02,ogrodzenie trwałe
+BU,budynki; budowle i urządzenia,BUIB,inna budowla,BUIB03,peron kolejowy
+BU,budynki; budowle i urządzenia,BUIB,inna budowla,BUIB04,platforma widokowa
+BU,budynki; budowle i urządzenia,BUIB,inna budowla,BUIB05,rampa
+BU,budynki; budowle i urządzenia,BUIB,inna budowla,BUIB06,trybuna
+KU,kompleksy użytkowania terenu,KUMN,kompleks mieszkaniowy,KUMN01,osiedle mieszkaniowe
+KU,kompleksy użytkowania terenu,KUMN,kompleks mieszkaniowy,KUMN02,posesja
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG01,elektrociepłownia
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG02,elektrownia
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG03,gazownia
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG04,gospodarstwo hodowlane
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG05,huta
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG06,kopalnia
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG07,oczyszczalnia ścieków
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG08,podstacja elektroenergetyczna
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG09,przepompownia
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG10,rafineria
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG11,składowisko odpadów
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG12,teren ujęcia wody
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG13,zakład metalurgiczny
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG14,zakład produkcyjny; usługowy lub remontowy
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG15,zakład utylizacji
+KU,kompleksy użytkowania terenu,KUPG,kompleks przemysłowo-gospodarczy,KUPG16,zakład wodociągowy
+KU,kompleksy użytkowania terenu,KUHU,kompleks handlowo-usługowy,KUHU01,centrum handlowo‐usługowe
+KU,kompleksy użytkowania terenu,KUHU,kompleks handlowo-usługowy,KUHU02,targowisko lub bazar
+KU,kompleksy użytkowania terenu,KUKO,kompleks komunikacyjny,KUKO01,dworzec autobusowy
+KU,kompleksy użytkowania terenu,KUKO,kompleks komunikacyjny,KUKO02,lotnisko lub lądowisko
+KU,kompleksy użytkowania terenu,KUKO,kompleks komunikacyjny,KUKO03,miejsce obsługi podróżnych
+KU,kompleksy użytkowania terenu,KUKO,kompleks komunikacyjny,KUKO04,parking
+KU,kompleksy użytkowania terenu,KUKO,kompleks komunikacyjny,KUKO05,port wodny lub przystań
+KU,kompleksy użytkowania terenu,KUKO,kompleks komunikacyjny,KUKO06,stacja kolejowa
+KU,kompleksy użytkowania terenu,KUKO,kompleks komunikacyjny,KUKO07,stacja metra
+KU,kompleksy użytkowania terenu,KUKO,kompleks komunikacyjny,KUKO08,stacja paliw
+KU,kompleksy użytkowania terenu,KUKO,kompleks komunikacyjny,KUKO09,teren kolejowy
+KU,kompleksy użytkowania terenu,KUKO,kompleks komunikacyjny,KUKO10,zajezdnia lub baza transportowa
+KU,kompleksy użytkowania terenu,KUSK,kompleks sportowy i rekreacyjny,KUSK01,ogród botaniczny
+KU,kompleksy użytkowania terenu,KUSK,kompleks sportowy i rekreacyjny,KUSK02,ogród zoologiczny
+KU,kompleksy użytkowania terenu,KUSK,kompleks sportowy i rekreacyjny,KUSK03,ośrodek sportowo‐rekreacyjny
+KU,kompleksy użytkowania terenu,KUSK,kompleks sportowy i rekreacyjny,KUSK04,park
+KU,kompleksy użytkowania terenu,KUSK,kompleks sportowy i rekreacyjny,KUSK05,zespół domów letniskowych
+KU,kompleksy użytkowania terenu,KUHO,kompleks usług hotelarskich,KUHO01,hotel lub motel
+KU,kompleksy użytkowania terenu,KUHO,kompleks usług hotelarskich,KUHO02,kemping
+KU,kompleksy użytkowania terenu,KUHO,kompleks usług hotelarskich,KUHO03,ośrodek wypoczynkowy
+KU,kompleksy użytkowania terenu,KUHO,kompleks usług hotelarskich,KUHO04,schronisko turystyczne
+KU,kompleksy użytkowania terenu,KUOS,kompleks oświatowy,KUOS01,ośrodek naukowo‐badawczy
+KU,kompleksy użytkowania terenu,KUOS,kompleks oświatowy,KUOS02,przedszkole lub żłobek
+KU,kompleksy użytkowania terenu,KUOS,kompleks oświatowy,KUOS03,szkoła lub zespół szkół
+KU,kompleksy użytkowania terenu,KUOS,kompleks oświatowy,KUOS04,szkoła wyższa
+KU,kompleksy użytkowania terenu,KUOZ,kompleks ochrony zdrowia i opieki społecznej,KUOZ01,zakład opieki socjalnej lub dom dziecka
+KU,kompleksy użytkowania terenu,KUOZ,kompleks ochrony zdrowia i opieki społecznej,KUOZ02,zespół szpitalny lub sanatoryjny
+KU,kompleksy użytkowania terenu,KUZA,kompleks zabytkowo-historyczny,KUZA01,miejsce pamięci narodowej
+KU,kompleksy użytkowania terenu,KUZA,kompleks zabytkowo-historyczny,KUZA02,skansen
+KU,kompleksy użytkowania terenu,KUZA,kompleks zabytkowo-historyczny,KUZA03,twierdza lub forteca
+KU,kompleksy użytkowania terenu,KUZA,kompleks zabytkowo-historyczny,KUZA04,zespół muzealny
+KU,kompleksy użytkowania terenu,KUZA,kompleks zabytkowo-historyczny,KUZA05,zespół pałacowy
+KU,kompleksy użytkowania terenu,KUZA,kompleks zabytkowo-historyczny,KUZA06,zespół zamkowy
+KU,kompleksy użytkowania terenu,KUSC,kompleks sakralny i cmentarz,KUSC01,cmentarz
+KU,kompleksy użytkowania terenu,KUSC,kompleks sakralny i cmentarz,KUSC02,zespół sakralny lub klasztorny
+KU,kompleksy użytkowania terenu,KUIK,inny kompleks użytkowania terenu,KUIK01,poligon wojskowy
+KU,kompleksy użytkowania terenu,KUIK,inny kompleks użytkowania terenu,KUIK02,zakład specjalny
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA01,państwo
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA02,województwo
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA03,powiat
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA04,gmina miejska
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA05,gmina wiejska
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA06,gmina miejsko‐wiejska
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA07,miasto w gminie miejsko‐wiejskiej
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA08,obszar wiejski w gminie miejsko‐wiejskiej
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA09,dzielnica
+AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA10,delegatura
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS01,miasto
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS02,część miasta
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS03,wieś
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS04,część wsi
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS05,kolonia
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS06,część kolonii
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS07,osada
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS08,część osady
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS09,osiedle
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS10,przysiółek
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS11,leśniczówka
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS12,gajówka
+AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS13,inny obiekt
+OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR01,drzewo lub grupa drzew
+OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR02,głaz narzutowy lub grupa głazów
+OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR03,kępa krzewów
+OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR04,kępa kosodrzewiny
+OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR05,linia oddziałowa
+OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR06,mały las
+OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR07,odosobniona skała
+OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR08,pas krzewów lub żywopłot
+OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR09,próg skalny
+OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR10,rząd drzew
+OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR11,wejście do jaskini
+OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR12,wodospad
+OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR13,źródło
+OI,obiekty inne,OIKM,obiekt związany z komunikają,OIKM01,ekran akustyczny
+OI,obiekty inne,OIKM,obiekt związany z komunikają,OIKM02,pas startowy
+OI,obiekty inne,OIKM,obiekt związany z komunikają,OIKM03,przejście graniczne
+OI,obiekty inne,OIKM,obiekt związany z komunikają,OIKM04,przystanek autobusowy lub tramwajowy
+OI,obiekty inne,OIKM,obiekt związany z komunikają,OIKM05,przystanek kolejowy
+OI,obiekty inne,OIKM,obiekt związany z komunikają,OIKM06,schody
+OI,obiekty inne,OIKM,obiekt związany z komunikają,OIKM07,sygnalizator świetlny
+OI,obiekty inne,OIKM,obiekt związany z komunikają,OIKM08,wejście do stacji metra
+OI,obiekty inne,OIKM,obiekt związany z komunikają,OIKM09,miejsce poboru opłat
+OI,obiekty inne,OIOR,obiekty o znaczeniu orientacyjnym w terenie,OIOR01,bunkier lub schron
+OI,obiekty inne,OIOR,obiekty o znaczeniu orientacyjnym w terenie,OIOR02,figura; kapliczka lub krzyż przydrożny
+OI,obiekty inne,OIOR,obiekty o znaczeniu orientacyjnym w terenie,OIOR03,fontanna
+OI,obiekty inne,OIOR,obiekty o znaczeniu orientacyjnym w terenie,OIOR04,mur historyczny
+OI,obiekty inne,OIOR,obiekty o znaczeniu orientacyjnym w terenie,OIOR05,odosobniona mogiła
+OI,obiekty inne,OIOR,obiekty o znaczeniu orientacyjnym w terenie,OIOR06,pomnik
+OI,obiekty inne,OIOR,obiekty o znaczeniu orientacyjnym w terenie,OIOR07,pomost lub molo
+OI,obiekty inne,OIOR,obiekty o znaczeniu orientacyjnym w terenie,OIOR08,ruina zabytkowa
+OI,obiekty inne,OIOR,obiekty o znaczeniu orientacyjnym w terenie,OIOR09,studnia głębinowa
+OI,obiekty inne,OIOR,obiekty o znaczeniu orientacyjnym w terenie,OIOR10,szklarnia (niebędąca budynkiem)
+OI,obiekty inne,OIOR,obiekty o znaczeniu orientacyjnym w terenie,OIOR11,wiata lub altana
+OI,obiekty inne,OIOR,obiekty o znaczeniu orientacyjnym w terenie,OIOR12,wiatrak (niebędący budynkiem)
+OI,obiekty inne,OIOR,obiekty o znaczeniu orientacyjnym w terenie,OIOR13,wieża obserwacyjna
+OI,obiekty inne,OIOR,obiekty o znaczeniu orientacyjnym w terenie,OIOR14,wodowskaz
+OI,obiekty inne,OIMK,mokradło,OIMK01,bagno
+OI,obiekty inne,OIMK,mokradło,OIMK02,teren podmokły
+OI,obiekty inne,OISZ,szuwary,OISZ01,szuwary
