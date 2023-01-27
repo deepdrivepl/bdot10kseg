@@ -12,7 +12,7 @@ from glob import glob
 import shapely
 import io
 import functools
-matplotlib.use('Agg')
+# matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 
@@ -31,19 +31,19 @@ class BDOT10kDataset(torch.utils.data.Dataset):
         self.powiaty = gpd.read_file(powiaty_shp_fname)
         print(f'Found {len(self.powiaty)} powiats')
         
-        self.shps = sorted(glob(shp_dir+'*.shp'))
+        self.shps = sorted(glob(shp_dir+'/*.shp'))
         print(f'SHPs: {len(self.shps)}')
         
         
         self.bdot10k_df = pd.read_csv(bdot10k_cats_fname)
-        self.bdot10k_cats = sorted(self.bdot10k_df.Kod2.tolist())
+        self.bdot10k_cats = sorted(self.bdot10k_df.kod2.tolist())
         self.bdot10k_cats_dict = defaultdict(list)
         
         for k in self.bdot10k_cats:
             self.bdot10k_cats_dict[k[:2]].append(k)
         
         for k in self.bdot10k_cats_dict:
-            print(f'{k}:',self.bdot10k_cats_dict[k])
+            print(f'{k}:', len(self.bdot10k_cats_dict[k]))
 #             for c in self.bdot10k_cats_dict[k]:
 #                 print(f'- {c}')
 
@@ -94,15 +94,16 @@ class BDOT10kDataset(torch.utils.data.Dataset):
         return img, x0,y0,x1,y1
         
     def get_heads_count(self):
-        return len(ds.bdot10k_cats_dict.keys())
+        return len(self.bdot10k_cats_dict.keys())
 
     def get_label(self, df):
         mask = np.zeros((self.get_heads_count(), self.size, self.size), dtype='int')
+        cat_names = list(self.bdot10k_cats_dict.keys())
         if df is not None:
             for code in df.X_KOD.unique():
                 out_id = cat_names.index(code[:2])
         #         code_int = int(code[4:])
-                code_int = ds.get_id_by_code(code)
+                code_int = self.get_id_by_code(code)
                 m = code_int * rasterize(shapes=df[df.X_KOD==code].geometry.iloc,
                          out_shape=(self.size, self.size))[::-1]
                 mask[out_id][m!=0] = m[m!=0]
@@ -142,16 +143,17 @@ class BDOT10kDataset(torch.utils.data.Dataset):
         return powiat_ids
     
     def plot_sample(self, img, mask, show=False):
+        cat_names = list(self.bdot10k_cats_dict.keys())
         fig = plt.figure(figsize=(20,10))
         plt.subplot(2,5,1)
         plt.imshow(img[:,:,::-1])
     #     plt.axis('off')
-        for i,vmax in enumerate([len(_) for _ in ds.bdot10k_cats_dict.values()]):
+        for i,vmax in enumerate([len(_) for _ in self.bdot10k_cats_dict.values()]):
             plt.subplot(2,5,2+i)
     #         plt.imshow(mask[i],cmap='hsv')
             plt.imshow(mask[i],cmap='gist_ncar',vmin=0, vmax=vmax)
             plt.axis('off')
-            plt.title(cat_names[i]+'\n'+ ds.bdot10k_df[ds.bdot10k_df.Kod0==cat_names[i]].iloc[0]['Nazwa kategorii klas obiektów'])
+            plt.title(cat_names[i]+'\n'+ self.bdot10k_df[self.bdot10k_df.kod0==cat_names[i]].iloc[0].kategoria)
         plt.tight_layout()
         if show:
             plt.show()
@@ -163,6 +165,7 @@ class BDOT10kDataset(torch.utils.data.Dataset):
             w, h = fig.canvas.get_width_height()
             img = data.reshape((int(h), int(w), -1))
             return img
+
     def __getitem__(self, idx):
         if torch.is_tensor(idx):
             idx = idx.tolist()
@@ -187,7 +190,6 @@ class BDOT10kDataset(torch.utils.data.Dataset):
 #         print('all:',len(df))
         if df is not None:
             df = df.cx[x0:x1, y0:y1]
-            
             new_geoms = []
             for i in range(len(df)):
                 s = df.iloc[i].geometry
