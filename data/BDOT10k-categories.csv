@@ -246,29 +246,6 @@ KU,kompleksy użytkowania terenu,KUSC,kompleks sakralny i cmentarz,KUSC01,cmenta
 KU,kompleksy użytkowania terenu,KUSC,kompleks sakralny i cmentarz,KUSC02,zespół sakralny lub klasztorny
 KU,kompleksy użytkowania terenu,KUIK,inny kompleks użytkowania terenu,KUIK01,poligon wojskowy
 KU,kompleksy użytkowania terenu,KUIK,inny kompleks użytkowania terenu,KUIK02,zakład specjalny
-AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA01,państwo
-AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA02,województwo
-AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA03,powiat
-AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA04,gmina miejska
-AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA05,gmina wiejska
-AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA06,gmina miejsko‐wiejska
-AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA07,miasto w gminie miejsko‐wiejskiej
-AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA08,obszar wiejski w gminie miejsko‐wiejskiej
-AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA09,dzielnica
-AD,jednostki podziału terytorialnego,ADJA,jednostka podziału administracyjnego,ADJA10,delegatura
-AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS01,miasto
-AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS02,część miasta
-AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS03,wieś
-AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS04,część wsi
-AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS05,kolonia
-AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS06,część kolonii
-AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS07,osada
-AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS08,część osady
-AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS09,osiedle
-AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS10,przysiółek
-AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS11,leśniczówka
-AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS12,gajówka
-AD,jednostki podziału terytorialnego,ADMS,miejscowość,ADMS13,inny obiekt
 OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR01,drzewo lub grupa drzew
 OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR02,głaz narzutowy lub grupa głazów
 OI,obiekty inne,OIPR,obiekt przyrodniczy,OIPR03,kępa krzewów
