@@ -12,7 +12,6 @@ from glob import glob
 import shapely
 import io
 import functools
-# matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 
@@ -24,7 +23,9 @@ class BDOT10kDataset(torch.utils.data.Dataset):
                  powiaty_shp_fname,
                  bdot10k_cats_fname,
                  size=1024,
-                 transform=None):
+                 level=0,
+                 transform=None,
+                 classes=None):
         self.tiff_dir = tiff_dir
         self.tiffs = sorted(glob(tiff_dir+'/*.tif'))
         print(f'Found {len(self.tiffs)} tiff files in {self.tiff_dir}')
@@ -34,22 +35,24 @@ class BDOT10kDataset(torch.utils.data.Dataset):
         self.shps = sorted(glob(shp_dir+'/*.shp'))
         print(f'SHPs: {len(self.shps)}')
         
-        
         self.bdot10k_df = pd.read_csv(bdot10k_cats_fname)
         self.bdot10k_cats = sorted(self.bdot10k_df.kod2.tolist())
         self.bdot10k_cats_dict = defaultdict(list)
         
+        levels = {0:2, 1:4, 2:None}
         for k in self.bdot10k_cats:
-            self.bdot10k_cats_dict[k[:2]].append(k)
-        
+            self.bdot10k_cats_dict[k[:levels[level]]].append(k)
+            
+        if classes is not None:
+            self.bdot10k_cats_dict = {k:v for k,v in self.bdot10k_cats_dict.items() if k.startswith(tuple(classes))}
+        print(f'Classes: {len(self.bdot10k_cats_dict)}')
         for k in self.bdot10k_cats_dict:
             print(f'{k}:', len(self.bdot10k_cats_dict[k]))
-#             for c in self.bdot10k_cats_dict[k]:
-#                 print(f'- {c}')
-
-
+        
         self.transform = transform
         self.size = size
+        self.level = level
+        
 
     def __len__(self):
         return len(self.tiffs)
@@ -70,7 +73,10 @@ class BDOT10kDataset(torch.utils.data.Dataset):
         _x0,_x1 = min(_x0,_x1), max(_x0,_x1)
         _y0,_y1 = min(_y0,_y1), max(_y0,_y1)
         
-        return img[y0:y1,x0:x1], (_x0,_y0), (_x1,_y1)
+#         print(_x0,_y0, _x1,_y1)
+#         print(x0,y0,x1,y1)
+        
+        return img[y0:y1,x0:x1], (_x0,_y0), (_x1,_y1) # crop coords in meters
     
     def get_id_by_code(self, code):
         return self.bdot10k_cats.index(code)
