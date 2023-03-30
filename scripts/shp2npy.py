@@ -5,7 +5,7 @@ import random
 import math
 sys.path.append("../bdot10kseg")
 
-from semseg_dataset import BDOT10kSemSeg
+from semseg_dataset import BDOT10kSemSegOrig
 
 from glob import glob
 from tqdm import tqdm
@@ -31,7 +31,7 @@ if __name__ == "__main__":
     os.makedirs(lbl_dir, exist_ok=True)
 
 
-    dataset = BDOT10kSemSeg(
+    dataset = BDOT10kSemSegOrig(
          tiff_dir=flist,
          shp_dir=SHP_DIR,
          powiaty_shp_fname=POW_SHP,
@@ -65,4 +65,4 @@ if __name__ == "__main__":
                     im = image[y0:y1,x0:x1,:]
                     cv2.imwrite(img_path, im[:,:,::-1])
                     with open(lbl_path, 'wb') as f:
-                        np.save(f, m)  
+                        np.save(f, m)
