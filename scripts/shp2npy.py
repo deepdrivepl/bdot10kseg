@@ -5,7 +5,7 @@ import random
 import math
 sys.path.append("../bdot10kseg")
 
-from semseg_dataset import BDOT10kSemSegOrig
+from semseg_dataset import BDOT10kSemSeg
 
 from glob import glob
 from tqdm import tqdm
@@ -21,6 +21,7 @@ TIF_DIR = "../dataset/images"
 SHP_DIR = "../dataset/SHP"
 POW_SHP = "../dataset/powiaty/powiaty.shp"
 OUT_DIR = "../dataset/data/463-%d" % SIZE
+    
 
 if __name__ == "__main__":
     flist = [os.path.join(TIF_DIR, x.rstrip()) for x in open(IMG_LIST)]
@@ -31,12 +32,13 @@ if __name__ == "__main__":
     os.makedirs(lbl_dir, exist_ok=True)
 
 
-    dataset = BDOT10kSemSegOrig(
+    dataset = BDOT10kSemSeg(
          tiff_dir=flist,
          shp_dir=SHP_DIR,
          powiaty_shp_fname=POW_SHP,
          bdot10k_cats_fname=CAT_CSV,
          level=0,
+         size=None,
          classes=None
     )
 
