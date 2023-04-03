@@ -94,8 +94,8 @@ class BDOT10kDataset(torch.utils.data.Dataset):
             x0 = random.randint(0,img.shape[1]-self.size-1)
             y0 = random.randint(0,img.shape[0]-self.size-1)
         
-        x1 = x0+self.W-1
-        y1 = y0+self.H-1
+        x1 = x0+self.W
+        y1 = y0+self.H
 
         _x0, _y0 = raster.transform * (x0,y0)
         _x1, _y1 = raster.transform * (x1,y1)
